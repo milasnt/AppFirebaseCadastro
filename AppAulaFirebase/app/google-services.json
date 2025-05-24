@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189917275050",
+    "project_id": "appaulafirebase-ac046",
+    "storage_bucket": "appaulafirebase-ac046.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189917275050:android:bb44ec4c2f350a40b181d3",
+        "android_client_info": {
+          "package_name": "com.example.appaulafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD93SHsATj-jQVl6rPSAQt_C0efaaYHdUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
